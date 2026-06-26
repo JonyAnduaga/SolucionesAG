@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.log
+.vercel
+# Imágenes pesadas - se manejan por separado
+public/fichas/
+public/productos/
+public/hero-bg-*.png
+public/promo-*.png
+public/founder.png
+public/cloud.png
+public/hero-*.png
+public/logo-iinube.png
